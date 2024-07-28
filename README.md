@@ -12,7 +12,7 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 3. [Experiment 3: Feature Selection And Feature Engineering](#experiment-3-feature-selection-and-feature-engineering)
 4. [Experiment 4: Supervised Learning](#experiment-4-supervised-learning)
 5. [Experiment 5: Unsupervised Learning](#experiment-5-unsupervised-learning)
-6. [Experiment 6: Artificial Neural Networks](#experiment-6-atrificial-neural-networks)
+6. [Experiment 6: Artificial Neural Networks](#experiment-6-artificial-neural-networks)
 
 
 ## Experiment 1: Manipulating Datasets using Pandas
