@@ -2,7 +2,7 @@
 
 This repository contains experiments from the Birzeit University course ENCS5141: INTELLIGENT SYSTEMS LAB. The experiments are designed to apply knowledge earned in the intelligent track course on a real-life application. Some experiments focus on
 the basics of machine learning techniques using artificial data. Others focus on some applications and tools
-in information retrieval, image processing, speech processing, robotics and NLP for Arabic language. .
+in information retrieval, image processing, speech processing, robotics and NLP for Arabic language.
 
 
 ## Table of Contents
@@ -12,6 +12,7 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 3. [Experiment 3: Feature Selection And Feature Engineering](#experiment-3-feature-selection-and-feature-engineering)
 4. [Experiment 4: Supervised Learning](#experiment-4-supervised-learning)
 5. [Experiment 5: Unsupervised Learning](#experiment-5-unsupervised-learning)
+6. [Experiment 6: Artificial Neural Networks](#experiment-6-atrificial-neural-networks)
 
 
 ## Experiment 1: Manipulating Datasets using Pandas
@@ -76,5 +77,16 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 - DBSCAN
 - Gaussian Mixture Model (GMM)
 - Clustering Algorithms Evaluation Criteria
+
+## Experiment 6: Artificial Neural Networks
+
+**Objective:** To understand and implement artificial neural networks (ANNs), exploring their structure, learning algorithms, and applications in solving complex problems.
+
+### Overview
+- Implementing Perceptron in Python
+- Performance of Perceptron on Nonlinear problems
+- Building and experimenting MLPs with Scikit Learn
+- Choosing Network Structure
+- Handling Overfitting in ANNs
 
 
