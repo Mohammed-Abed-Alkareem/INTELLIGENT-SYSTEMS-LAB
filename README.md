@@ -13,6 +13,8 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 4. [Experiment 4: Supervised Learning](#experiment-4-supervised-learning)
 5. [Experiment 5: Unsupervised Learning](#experiment-5-unsupervised-learning)
 6. [Experiment 6: Artificial Neural Networks](#experiment-6-artificial-neural-networks)
+7. [Experiment 7: Introduction to Deep Learning with PyTorch](#experiment-7-introduction-to-deep-learning-with-pyTorch)
+8. [Experiment 8: Introduction to Computer Vision](#experiment-8-introduction-to-computer-vision)
 
 
 ## Experiment 1: Manipulating Datasets using Pandas
@@ -89,4 +91,23 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 - Choosing Network Structure
 - Handling Overfitting in ANNs
 
+## Experiment 7: Introduction to Deep Learning with PyTorch
+
+**Objective:** Learn the fundamentals of deep learning using PyTorch, including creating and training neural networks for various applications.
+
+### Overview
+- Tensors
+- Gentle Introduction to torch.autograd
+- Building Models with PyTorch
+- Training and Evaluation
+
+## Experiment 8: Introduction to Computer Vision
+
+**Objective:** Learn the fundamentals of deep learning using PyTorch, including creating and training neural networks for various applications.
+ - Image processing and manipulation with OpenCV
+ - Image classification with MLP
+ - Image classification with CNNs
+ - Transfer Learning
+
+   
 
