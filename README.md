@@ -104,6 +104,7 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 ## Experiment 8: Introduction to Computer Vision
 
 **Objective:** Learn the fundamentals of deep learning using PyTorch, including creating and training neural networks for various applications.
+### Overview
  - Image processing and manipulation with OpenCV
  - Image classification with MLP
  - Image classification with CNNs
