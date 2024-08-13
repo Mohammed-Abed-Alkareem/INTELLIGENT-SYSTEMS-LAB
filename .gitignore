@@ -1,3 +1,6 @@
 # Ignore all data directories
 **/data/
 **/sentiment-analysis/
+**/stacksample/
+**/stacksample.zip
+**/indexdir/
