@@ -15,6 +15,8 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 6. [Experiment 6: Artificial Neural Networks](#experiment-6-artificial-neural-networks)
 7. [Experiment 7: Introduction to Deep Learning with PyTorch](#experiment-7-introduction-to-deep-learning-with-pyTorch)
 8. [Experiment 8: Introduction to Computer Vision](#experiment-8-introduction-to-computer-vision)
+9. [Experiment 9: Introduction to Natural Language Processing (NLP)](#experiment-9-introduction-to-natural-language-processing-nlp)
+
 
 
 ## Experiment 1: Manipulating Datasets using Pandas
@@ -109,6 +111,26 @@ in information retrieval, image processing, speech processing, robotics and NLP 
  - Image classification with MLP
  - Image classification with CNNs
  - Transfer Learning
+
+
+## Experiment 9: Introduction to Natural Language Processing (NLP)
+
+**Objective:** To explore the techniques and tools for processing text using NLP methods.
+
+### Overview
+- **Text Preprocessing:**
+  - Tokenization
+  - Removing Stopping Words
+  - Stemming
+  
+- **Word Embedding**
+- **Average Vector**
+
+- **Language Models:**
+  - Naive Bayes classifier
+  - LSTM
+  - Transformers
+
 
    
 
