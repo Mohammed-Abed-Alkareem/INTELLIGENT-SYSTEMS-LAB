@@ -16,6 +16,7 @@ in information retrieval, image processing, speech processing, robotics and NLP 
 7. [Experiment 7: Introduction to Deep Learning with PyTorch](#experiment-7-introduction-to-deep-learning-with-pyTorch)
 8. [Experiment 8: Introduction to Computer Vision](#experiment-8-introduction-to-computer-vision)
 9. [Experiment 9: Introduction to Natural Language Processing (NLP)](#experiment-9-introduction-to-natural-language-processing-nlp)
+10. [Experiment 10: Information Retrieval](#experiment-10-information-retrieval)
 
 
 
@@ -132,5 +133,16 @@ in information retrieval, image processing, speech processing, robotics and NLP 
   - Transformers
 
 
-   
 
+## Experiment 10: Information Retrieval
+
+**Objective:** To explore the techniques and tools for accessing and retrieving relevant information from large data repositories using IR methods.
+
+### Overview
+- **Indexing:** Creating and maintaining data structures for efficient search.
+- **Querying:** Using models like Boolean, Vector Space, and Probabilistic for document retrieval.
+- **Search Techniques:** Implementing searches using TF-IDF and BM25F scoring with Whoosh.
+- **Query Expansion:** Enhancing search results by expanding the user's query.
+- **Evaluation:** Measuring the effectiveness of the IR system using precision, recall.
+
+  
